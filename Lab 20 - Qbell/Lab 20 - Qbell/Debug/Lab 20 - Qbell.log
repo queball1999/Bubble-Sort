@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\QUE-PC-23\Nextcloud2\School\School Archive\ENG175\Lab 20 - Qbell\Lab 20 - Qbell\main.c(124,12): warning C4101: 'k': unreferenced local variable
+C:\Users\QUE-PC-23\Nextcloud2\School\School Archive\ENG175\Lab 20 - Qbell\Lab 20 - Qbell\main.c(157,12): warning C4101: 'k': unreferenced local variable
+  Lab 20 - Qbell.vcxproj -> C:\Users\QUE-PC-23\Nextcloud2\School\School Archive\ENG175\Lab 20 - Qbell\Debug\Lab 20 - Qbell.exe
